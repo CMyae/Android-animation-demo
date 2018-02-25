@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/chan/Documents/Android/Project/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/chan/.android/build-cache/a7a96bd2930312260062e6ca3e204b0ab6b34bfa/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Android/Project/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/chan/.android/build-cache/a7a96bd2930312260062e6ca3e204b0ab6b34bfa/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Android/Project/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/chan/.android/build-cache/a7a96bd2930312260062e6ca3e204b0ab6b34bfa/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Android/Project/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/chan/.android/build-cache/a7a96bd2930312260062e6ca3e204b0ab6b34bfa/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

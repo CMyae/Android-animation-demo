@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Android/Project/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/chan/.android/build-cache/f92fe0ecfb96af390d6f5368d6b9d2a3b0b532d5/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Android/Project/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/chan/.android/build-cache/a7a96bd2930312260062e6ca3e204b0ab6b34bfa/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Android/Project/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/chan/.android/build-cache/893e4f2c3bbf6d5d7987e17cec8582448a4b58fe/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Android/Project/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/chan/.android/build-cache/f92fe0ecfb96af390d6f5368d6b9d2a3b0b532d5/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Android/Project/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/chan/.android/build-cache/893e4f2c3bbf6d5d7987e17cec8582448a4b58fe/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Android/Project/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/chan/.android/build-cache/893e4f2c3bbf6d5d7987e17cec8582448a4b58fe/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/chan/Documents/Chan Myae/Android/Android_Projects/PagerTransform/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Android/Project/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/chan/.android/build-cache/893e4f2c3bbf6d5d7987e17cec8582448a4b58fe/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/chan/Documents/Android/Project/Android_Projects/PagerTransform/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/chan/.android/build-cache/f92fe0ecfb96af390d6f5368d6b9d2a3b0b532d5/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

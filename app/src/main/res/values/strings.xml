@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Animation Demo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="FOOD_ENG">
+        <item>Apple</item>
+        <item>Stawberry</item>
+        <item>Grape</item>
+        <item>Orange</item>
+        <item>Avocado</item>
+        <item>PineApple</item>
+        <item>Banana</item>
+        <item>Mango</item>
+        <item>WaterMellon</item>
+        <item>Lime</item>
+        <item>Coconut</item>
+        <item>Papaya</item>
+    </string-array>
+
+    <string-array name="FOOD_MM">
+        <item>ပန္းသီး</item>
+        <item>စေတာ္ဘယ္ရီ</item>
+        <item>စပ်စ္သီး</item>
+        <item>လိ​ေမၼာ္​သီး</item>
+        <item>​ေထာပတ္​သီး</item>
+        <item>နံနတ္သီး</item>
+        <item>ငွက္ေပ်ာသီး</item>
+        <item>သရက္သီး</item>
+        <item>ဖရဲသီး</item>
+        <item>သံပုရာသီး</item>
+        <item>အုန္​းသီး</item>
+        <item>သေဘာၤသီး</item>
+    </string-array>
+</resources>

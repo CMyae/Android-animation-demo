@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/chan/.android/build-cache/2d3287dad933a8a0d5a951940bda40577c62be2d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b614956bf77eb8201754ac10109e52c36691cb3f">
+        <dex dex="/home/chan/Documents/Android/Project/Android_Projects/PagerTransform/app/build/intermediates/pre-dexed/debug/classes_70cd36cc8c0b3c037712765225ee03015baf13ff.jar" />
+    </item>
+
+</items>

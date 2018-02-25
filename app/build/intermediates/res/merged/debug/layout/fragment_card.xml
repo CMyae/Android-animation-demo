@@ -1,0 +1,71 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/card_background"
+    tools:context="com.material.design.pagertransform.fragment.CardFragment">
+
+    <LinearLayout
+        android:id="@+id/title_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_food_title_eng"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="serif-monospace"
+            android:textColor="#000"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            tools:text="CARROT" />
+
+        <TextView
+            android:id="@+id/tv_food_title_mm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#444"
+            android:textSize="18sp"
+            tools:text="CARROTMM" />
+    </LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/img_food"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_below="@id/title_container"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/fruit_test2" />
+
+    <TextView
+        android:id="@+id/tv_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/img_food"
+        android:layout_centerHorizontal="true"
+        android:text="@string/hello_blank_fragment"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/btn_detail"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/button_background"
+        android:gravity="center"
+        android:padding="15dp"
+        android:text="DETAIL"
+        android:textStyle="bold"
+         />
+
+</RelativeLayout>

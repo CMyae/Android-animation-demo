@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundConerView">
+        <attr name="conerRadius" format="boolean"></attr>
+        <attr name="conerRadiusSize" format="dimension"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="HeartView">
+
+        <attr name="icon_color" format="color|reference"/>
+        <attr name="iconType" format="integer">
+            <flag name="Heart" value="0"/>
+            <flag name="Star" value="1"/>
+            <flag name="Thumb" value="2"/>
+        </attr>
+
+        <attr name="splitMode" format="integer">
+            <flag name="Normal" value="0"/>
+            <flag name="Max" value="1"/>
+            <flag name="Min" value="2"/>
+        </attr>
+
+    </declare-styleable>
+
+</resources>
